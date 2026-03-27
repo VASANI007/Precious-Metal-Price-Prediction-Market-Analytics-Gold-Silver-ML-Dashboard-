@@ -1,4 +1,4 @@
-<!-- 🌌 Header -->
+<!-- 🌌 Header --> 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Precious%20Metal%20Price%20Prediction&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -46,25 +46,6 @@ This project provides a **complete ML pipeline + dashboard** for:
 
 ---
 
-# 🖼️ App Preview
-
-<p>
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app.png" width="800"/>
-</p>
----
-# 📊 Dashboard Insights
-
-<p>
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app1.png" width="400"/>
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app2.png" width="400"/>
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app3.png" width="400"/>
-</p>
-
----
-
 # 📂 Project Structure
 
 ```
@@ -80,6 +61,8 @@ PRECIOUS-METAL-PRICE-PREDICTION/
 │ │
 │ └── processed/
 │ └── final_data.csv
+│
+├── images/
 │
 ├── models/
 │ └── model.pkl
@@ -101,6 +84,31 @@ PRECIOUS-METAL-PRICE-PREDICTION/
 ├── main.py # Full pipeline runner
 ├── requirements.txt
 ```
+
+---
+
+# 🖼️ Project Preview
+
+### 🔹 Dashboard (app.py)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app1.png" width="400"/>
+</p>
+
+---
+
+### 🔹 Analysis Notebook (analysis.ipynb)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/gold_24_notebook.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/gold_vs_silver_notbook.png" width="400"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/silver_notebook.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/year_gold_notebook.png" width="400"/>
+</p>
 
 ---
 

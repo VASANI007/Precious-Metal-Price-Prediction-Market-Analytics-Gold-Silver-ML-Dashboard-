@@ -92,8 +92,8 @@ PRECIOUS-METAL-PRICE-PREDICTION/
 ### 🔹 Dashboard (app.py)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app.png" width="400"/>
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/app1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Gold-Silver-Price-Prediction-ML-System/main/Precious-Metal-Price-Prediction/images/app.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Gold-Silver-Price-Prediction-ML-System/main/Precious-Metal-Price-Prediction/images/app1.png" width="400"/>
 </p>
 
 ---
@@ -101,13 +101,13 @@ PRECIOUS-METAL-PRICE-PREDICTION/
 ### 🔹 Analysis Notebook (analysis.ipynb)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/gold_24_notebook.png" width="400"/>
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/gold_vs_silver_notbook.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Gold-Silver-Price-Prediction-ML-System/main/Precious-Metal-Price-Prediction/images/gold_24_notebook.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Gold-Silver-Price-Prediction-ML-System/main/Precious-Metal-Price-Prediction/images/gold_vs_silver_notbook.png" width="400"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/silver_notebook.png" width="400"/>
-<img src="https://raw.githubusercontent.com/VASANI007/Precious-Metal-Price-Prediction-Market-Analytics-Gold-Silver-ML-Dashboard-/main/Precious-Metal-Price-Prediction/images/year_gold_notebook.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Gold-Silver-Price-Prediction-ML-System/main/Precious-Metal-Price-Prediction/images/silver_notebook.png" width="400"/>
+<img src="https://raw.githubusercontent.com/VASANI007/Gold-Silver-Price-Prediction-ML-System/main/Precious-Metal-Price-Prediction/images/year_gold_notebook.png" width="400"/>
 </p>
 
 ---
